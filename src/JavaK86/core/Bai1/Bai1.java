@@ -1,4 +1,4 @@
-package Bai1;
+package JavaK86.core.Bai1;
 
 import java.util.Scanner;
 

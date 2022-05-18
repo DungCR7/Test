@@ -1,4 +1,4 @@
-package VongLap;
+package JavaK86.core.Bai3.VongLap;
 
 import java.util.Scanner;
 public class VongLap {
